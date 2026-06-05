@@ -1,0 +1,25 @@
+# Discord Bot secrets
+.env
+
+# Large Windows executables
+ffmpeg.exe
+ffprobe.exe
+ffmpeg_temp.zip
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
